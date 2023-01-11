@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>NET6.0</TargetFramework>
+    <AssemblyName>Convesys.Providers.Polly.Retry</AssemblyName>
+    <RootNamespace>Convesys.Providers.Polly.Retry</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Polly" Version="7.2.1" />
+  </ItemGroup>
+
+</Project>

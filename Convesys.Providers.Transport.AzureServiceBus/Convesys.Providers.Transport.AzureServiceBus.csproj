@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>Glasswall.Providers.Transport.AzureServiceBus</RootNamespace>
+    <AssemblyName>Glasswall.Providers.Transport.AzureServiceBus</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Provides an API for Azure Service Bus.</Description>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.ServiceBus" Version="4.1.2" />
+    <PackageReference Include="Pirina.Common.Transport" Version="1.0.0" />
+    <PackageReference Include="Pirina.Kernel" Version="1.1.2" />
+    <PackageReference Include="Pirina.Kernel.Data" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>NET6.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+
+    <AssemblyName>Convesys.Providers.Polly.Retry.Tests.L0</AssemblyName>
+
+    <RootNamespace>Convesys.Providers.Polly.Retry.Tests.L0</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.7.0" />
+  </ItemGroup>
+
+</Project>
