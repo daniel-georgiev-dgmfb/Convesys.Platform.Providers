@@ -1,10 +1,7 @@
-﻿
-using Pirina.Kernel.Security.CertificateManagement;
-using Pirina.Kernel.Security.SecretManagement;
-using System;
+﻿using System;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Pirina.Providers.Cryptography.Stores.Azure
+namespace Convesys.Providers.Cryptography.Stores.Azure
 {
     public class AzureCertificateVault : ICertificateStore
   {
