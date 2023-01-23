@@ -3,7 +3,7 @@
     using System.Diagnostics;
     public class Generator
     {
-        public static void RunSync()
+        public static void RunSync(char[] source)
         {
             Stopwatch stopwatch = new Stopwatch();
             var l = new List<string>();
@@ -11,7 +11,7 @@
             //var stopwatch = new Stopwatch();
             //var source = new char[6] {'1', '2', '3', '4', '5', '6' };
             //var source = new char[6] { 'a', 'b', 'c', 'd', 'e', 'f' };
-            var source = new char[] { 'a', 'b', 'c', 'd', '1', '2', '3' };
+            //var source = new char[] { 'a', 'b', 'c', 'd', '1', '2', '3' };
             var salt = new byte[4];
             //var sb = new StringBuilder();
             //var md5 = MD5.Create();
