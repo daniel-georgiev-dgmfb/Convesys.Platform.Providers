@@ -5,7 +5,7 @@
     {
         public static async Task RunInParallel()
         {
-            Stopwatch stopWatch = new Stopwatch();
+            Stopwatch stopwatch = new Stopwatch();
             var l = new List<string>();
             var perm = new List<string>();
             //var stopwatch = new Stopwatch();
