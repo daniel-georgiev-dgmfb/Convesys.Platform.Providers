@@ -1,7 +1,7 @@
 ﻿namespace Convesys.Providers.RainbowTables
 {
     using System.Diagnostics;
-    public class Class1
+    public class Generator
     {
         public static async Task RunInParallel()
         {

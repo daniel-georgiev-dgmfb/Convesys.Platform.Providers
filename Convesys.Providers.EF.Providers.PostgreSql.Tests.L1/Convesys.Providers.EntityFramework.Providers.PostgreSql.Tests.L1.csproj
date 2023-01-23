@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>NET6.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -13,14 +13,6 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Pirina.Common.Configuration" Version="1.0.0" />
-    <PackageReference Include="Pirina.Kernel.Cryptography" Version="1.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Pirina.Providers.EntityFramework.Providers.MSSql\Pirina.Providers.EntityFramework.Providers.Microsoft.csproj" />
-    <ProjectReference Include="..\Pirina.Providers.EntityFramework.Providers.PostgreSql\Pirina.Providers.EntityFramework.Providers.PostgreSql.csproj" />
-    <ProjectReference Include="..\Pirina.Providers.EntityFramework\Pirina.Providers.EntityFramework.csproj" />
   </ItemGroup>
 
 </Project>
