@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Convesys.Kernel.Cryptography">
+      <HintPath>D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography\bin\Debug\net6.0\Convesys.Kernel.Cryptography.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
