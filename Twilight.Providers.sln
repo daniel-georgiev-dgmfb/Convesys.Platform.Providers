@@ -61,7 +61,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Polly.Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Polly.Retry.Tests.L0", "Convesys.Providers.CircuitBreaker.Retry.Tests.L0\Convesys.Providers.Polly.Retry.Tests.L0.csproj", "{838750FC-7CFE-40ED-8C9E-BB4394B1AD58}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Logging.Console", "Convesys.Providers.Logging.Console\Convesys.Providers.Logging.Console.csproj", "{F3405575-0B2E-4FF6-A712-1604C0585C3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Logging.Console", "Convesys.Providers.Logging.Console\Twilight.Providers.Logging.Console.csproj", "{F3405575-0B2E-4FF6-A712-1604C0585C3B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Logging.Debug", "Convesys.Providers.Logging.Debug\Convesys.Providers.Logging.Debug.csproj", "{8090120A-D767-4F2A-9878-1AB3FF30AEF4}"
 EndProject

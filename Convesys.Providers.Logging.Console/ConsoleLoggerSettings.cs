@@ -1,4 +1,4 @@
-﻿using Convesys.Kernel.Configuration;
+﻿using Twilight.Kernel.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Console;
 using Microsoft.Extensions.Primitives;
@@ -6,7 +6,7 @@ using System;
 using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("Convesys.Providers.Logging.Console.Tests.L0")]
-namespace Convesys.Providers.Logging.Console
+namespace Twilight.Providers.Logging.Console
 {
     internal class ConsoleLoggerSettings : IConsoleLoggerSettings
     {

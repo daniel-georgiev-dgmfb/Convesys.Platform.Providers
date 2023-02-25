@@ -10,10 +10,4 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.2.0-preview1-35029" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="Convesys.Kernel">
-      <HintPath>..\..\Convesys.Platform.Kernel\Convesys.Kernel\obj\Debug\net6.0\Convesys.Kernel.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

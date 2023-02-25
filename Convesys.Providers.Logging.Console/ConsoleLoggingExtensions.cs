@@ -1,8 +1,8 @@
-﻿using Convesys.Kernel.DependencyResolver;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Console;
+using Twilight.Kernel.DependencyResolver;
 
-namespace Convesys.Providers.Logging.Console
+namespace Twilight.Providers.Logging.Console
 {
     public static class ConsoleLoggingExtensions
     {
