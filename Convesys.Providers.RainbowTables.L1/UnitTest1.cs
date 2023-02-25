@@ -1,4 +1,4 @@
-namespace Convesys.Providers.RainbowTables.L1
+namespace Twilight.Providers.RainbowTables.L1
 {
     public class Tests
     {

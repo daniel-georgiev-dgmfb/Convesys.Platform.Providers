@@ -1,4 +1,4 @@
-﻿namespace Convesys.Providers.RainbowTables
+﻿namespace Twilight.Providers.RainbowTables
 {
     using Kernel.Cryptography;
     using System.Diagnostics;

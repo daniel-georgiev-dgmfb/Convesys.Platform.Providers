@@ -65,9 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Logging.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Logging.Debug", "Convesys.Providers.Logging.Debug\Convesys.Providers.Logging.Debug.csproj", "{8090120A-D767-4F2A-9878-1AB3FF30AEF4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.RainbowTables", "Convesys.Providers.RainbowTables\Convesys.Providers.RainbowTables.csproj", "{A5C191A1-7C9C-42B3-8626-F88051E05892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.RainbowTables", "Convesys.Providers.RainbowTables\Twilight.Providers.RainbowTables.csproj", "{A5C191A1-7C9C-42B3-8626-F88051E05892}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.RainbowTables.L1", "Convesys.Providers.RainbowTables.L1\Convesys.Providers.RainbowTables.L1.csproj", "{191C1501-898B-4B01-B1FB-DA570161D7C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.RainbowTables.L1", "Convesys.Providers.RainbowTables.L1\Twilight.Providers.RainbowTables.L1.csproj", "{191C1501-898B-4B01-B1FB-DA570161D7C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

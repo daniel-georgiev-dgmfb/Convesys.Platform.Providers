@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Providers.RainbowTables\Convesys.Providers.RainbowTables.csproj" />
+    <ProjectReference Include="..\Convesys.Providers.RainbowTables\Twilight.Providers.RainbowTables.csproj" />
   </ItemGroup>
 
 </Project>
