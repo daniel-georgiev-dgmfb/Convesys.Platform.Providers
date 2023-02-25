@@ -5,7 +5,7 @@ using Microsoft.Extensions.Primitives;
 using System;
 using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Convesys.Providers.Logging.Console.Tests.L0")]
+[assembly: InternalsVisibleTo("Twilight.Providers.Logging.Console.Tests.L0")]
 namespace Twilight.Providers.Logging.Console
 {
     internal class ConsoleLoggerSettings : IConsoleLoggerSettings

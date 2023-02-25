@@ -1,10 +1,10 @@
-﻿using Convesys.Kernel.Configuration;
-using Convesys.Kernel.DependencyResolver;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Debug;
 using System;
+using Twilight.Kernel.Configuration;
+using Twilight.Kernel.DependencyResolver;
 
-namespace Convesys.Providers.Logging.Debug
+namespace Twilight.Providers.Logging.Debug
 {
     public static class DebugLoggingExtensions
     {
