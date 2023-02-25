@@ -1,8 +1,8 @@
-﻿using Convesys.Kernel.Caching;
-using Microsoft.Extensions.Caching.Memory;
+﻿using Microsoft.Extensions.Caching.Memory;
 using System;
+using Twilight.Kernel.Caching;
 
-namespace Convesys.MemoryCacheProvider
+namespace Twilight.MemoryCacheProvider
 {
     public class MemoryCacheItemPolicy : MemoryCacheEntryOptions, ICacheEntryOptions
     {

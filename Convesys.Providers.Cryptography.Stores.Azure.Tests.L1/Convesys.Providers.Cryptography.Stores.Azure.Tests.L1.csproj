@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Convesys.Providers.Cryptography.Stores.Azure\Convesys.Providers.Cryptography.Stores.Azure.csproj" />
-    <ProjectReference Include="..\Convesys.Providers.MemoryCache\Convesys.Providers.MemoryCache.csproj" />
+    <ProjectReference Include="..\Convesys.Providers.MemoryCache\Twilight.Providers.MemoryCache.csproj" />
   </ItemGroup>
 
 </Project>

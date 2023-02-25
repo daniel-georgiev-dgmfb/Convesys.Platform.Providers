@@ -1,11 +1,11 @@
-﻿using System;
+﻿using Microsoft.Extensions.Caching.Memory;
+using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
-using Convesys.Kernel.Caching;
-using Microsoft.Extensions.Caching.Memory;
+using Twilight.Kernel.Caching;
 
-namespace Convesys.MemoryCacheProvider
+namespace Twilight.MemoryCacheProvider
 {
     public class MemoryCacheRuntimeImplementor : ICacheProvider
     {

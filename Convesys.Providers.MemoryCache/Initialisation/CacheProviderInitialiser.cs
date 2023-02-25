@@ -1,7 +1,7 @@
-﻿using Convesys.Kernel.DependencyResolver;
+﻿using Twilight.Kernel.DependencyResolver;
 using System.Threading.Tasks;
 
-namespace Convesys.MemoryCacheProvider.Initialisation
+namespace Twilight.MemoryCacheProvider.Initialisation
 {
     public static class CacheProviderInitialiser
     {

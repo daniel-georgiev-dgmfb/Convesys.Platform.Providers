@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Database
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Transport.AzureCosmosDatabase.Tests.L0", "Convesys.Providers.Storage.AzureCosmosDatabase.Tests.L0\Convesys.Providers.Transport.AzureCosmosDatabase.Tests.L0.csproj", "{C7D42EA6-0F1F-47B1-A4EA-CA721C840650}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.MemoryCache", "Convesys.Providers.MemoryCache\Convesys.Providers.MemoryCache.csproj", "{B3075B2F-FB30-417C-949B-57664F903327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.MemoryCache", "Convesys.Providers.MemoryCache\Twilight.Providers.MemoryCache.csproj", "{B3075B2F-FB30-417C-949B-57664F903327}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.EntityFramework", "Convesys.Providers.EntityFramework\Convesys.Providers.EntityFramework.csproj", "{040D3831-FE49-491C-8BBE-3D582001C4D7}"
 EndProject
@@ -67,7 +67,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Logging.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.RainbowTables", "Convesys.Providers.RainbowTables\Convesys.Providers.RainbowTables.csproj", "{A5C191A1-7C9C-42B3-8626-F88051E05892}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convesys.Providers.RainbowTables.L1", "Convesys.Providers.RainbowTables.L1\Convesys.Providers.RainbowTables.L1.csproj", "{191C1501-898B-4B01-B1FB-DA570161D7C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.RainbowTables.L1", "Convesys.Providers.RainbowTables.L1\Convesys.Providers.RainbowTables.L1.csproj", "{191C1501-898B-4B01-B1FB-DA570161D7C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
