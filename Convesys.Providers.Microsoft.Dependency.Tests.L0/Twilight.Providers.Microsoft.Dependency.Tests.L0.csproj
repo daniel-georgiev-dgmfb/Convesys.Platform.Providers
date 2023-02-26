@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Providers.Microsoft.DependencyInjection\Convesys.Providers.Microsoft.DependencyInjection.csproj" />
+    <ProjectReference Include="..\Convesys.Providers.Microsoft.DependencyInjection\Twilight.Providers.Microsoft.DependencyInjection.csproj" />
   </ItemGroup>
 
   <ItemGroup>

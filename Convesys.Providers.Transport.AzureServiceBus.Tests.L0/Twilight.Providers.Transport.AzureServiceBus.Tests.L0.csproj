@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Providers.Transport.AzureServiceBus\Convesys.Providers.Transport.AzureServiceBus.csproj" />
+    <ProjectReference Include="..\Convesys.Providers.Transport.AzureServiceBus\Twilight.Providers.Transport.AzureServiceBus.csproj" />
   </ItemGroup>
 
 </Project>

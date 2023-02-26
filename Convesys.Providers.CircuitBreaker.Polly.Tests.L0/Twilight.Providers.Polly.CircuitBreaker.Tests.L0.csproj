@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Providers.CircuitBreaker.Poly\Convesys.Providers.Polly.CircuitBreaker.csproj" />
+    <ProjectReference Include="..\Convesys.Providers.CircuitBreaker.Poly\Twilight.Providers.Polly.CircuitBreaker.csproj" />
   </ItemGroup>
 
 </Project>
