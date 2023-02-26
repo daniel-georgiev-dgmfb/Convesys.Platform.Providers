@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Providers.EntityFramework\Convesys.Providers.EntityFramework.csproj" />
+    <ProjectReference Include="..\Convesys.Providers.EntityFramework\Twilight.Providers.EntityFramework.csproj" />
   </ItemGroup>
 
 </Project>

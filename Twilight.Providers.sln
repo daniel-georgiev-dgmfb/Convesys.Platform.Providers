@@ -7,13 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Transpor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Transport.AzureServiceBus.Tests.L0", "Convesys.Providers.Transport.AzureServiceBus.Tests.L0\Convesys.Providers.Transport.AzureServiceBus.Tests.L0.csproj", "{CBA52B72-DBE9-443F-A04D-8FCE8E7ACF0A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Databases.AzureCosmosDatabase", "Convesys.Providers.Storage.AzureCosmosDatabase\Convesys.Providers.Databases.AzureCosmosDatabase.csproj", "{C6674F4C-E023-46D0-8D5F-CDD16A268CEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Databases.AzureCosmosDatabase", "Convesys.Providers.Storage.AzureCosmosDatabase\Twilight.Providers.Databases.AzureCosmosDatabase.csproj", "{C6674F4C-E023-46D0-8D5F-CDD16A268CEF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Transport.AzureCosmosDatabase.Tests.L0", "Convesys.Providers.Storage.AzureCosmosDatabase.Tests.L0\Convesys.Providers.Transport.AzureCosmosDatabase.Tests.L0.csproj", "{C7D42EA6-0F1F-47B1-A4EA-CA721C840650}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.MemoryCache", "Convesys.Providers.MemoryCache\Twilight.Providers.MemoryCache.csproj", "{B3075B2F-FB30-417C-949B-57664F903327}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.EntityFramework", "Convesys.Providers.EntityFramework\Convesys.Providers.EntityFramework.csproj", "{040D3831-FE49-491C-8BBE-3D582001C4D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.EntityFramework", "Convesys.Providers.EntityFramework\Twilight.Providers.EntityFramework.csproj", "{040D3831-FE49-491C-8BBE-3D582001C4D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.MemoryCache.L0.Tests", "Convesys.Providers.MemoryCache.L0.Tests\Convesys.Providers.MemoryCache.L0.Tests.csproj", "{CDFD740A-A549-4329-9DD2-34BBCC634043}"
 EndProject
@@ -29,9 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.EntityFr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.MicrosoftCore.Logging", "Convesys.Providers.Logging.Microsoft\Convesys.Providers.MicrosoftCore.Logging.csproj", "{EE980C33-6911-4329-8341-A5145108F3F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Cryptography.Stores.Azure", "Convesys.Providers.Cryptography.Stores.Azure\Convesys.Providers.Cryptography.Stores.Azure.csproj", "{1BC184D9-2C50-446A-8C04-F06FDB4438FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Cryptography.Stores.Azure", "Convesys.Providers.Cryptography.Stores.Azure\Twilight.Providers.Cryptography.Stores.Azure.csproj", "{1BC184D9-2C50-446A-8C04-F06FDB4438FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Cryptography.Stores.Azure.Tests.L1", "Convesys.Providers.Cryptography.Stores.Azure.Tests.L1\Convesys.Providers.Cryptography.Stores.Azure.Tests.L1.csproj", "{EDAF2211-BE94-42F4-B27C-9458801768D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Cryptography.Stores.Azure.Tests.L1", "Convesys.Providers.Cryptography.Stores.Azure.Tests.L1\Twilight.Providers.Cryptography.Stores.Azure.Tests.L1.csproj", "{EDAF2211-BE94-42F4-B27C-9458801768D9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Storage.AzureBlob.Tests.L1", "Convesys.Providers.Storage.AzureBlob.Tests.L1\Convesys.Providers.Storage.AzureBlob.Tests.L1.csproj", "{49519557-E34D-450F-B19A-5D6AED7010B9}"
 EndProject
@@ -41,9 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Storage.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Storage.FileShare.Test.L1", "Convesys.Providers.Storage.FileShare.Test.L1\Convesys.Providers.Storage.FileShare.Test.L1.csproj", "{7139BA00-320A-4980-91CE-9421928B7EB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Databases.AzureCosmosDatabase.Test.L1", "Convesys.Providers.Databases.AzureCosmosDatabase.Test.L1\Convesys.Providers.Databases.AzureCosmosDatabase.Test.L1.csproj", "{43852D53-F850-4C4F-B987-5B8F9AB401E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Databases.AzureCosmosDatabase.Test.L1", "Convesys.Providers.Databases.AzureCosmosDatabase.Test.L1\Twilight.Providers.Databases.AzureCosmosDatabase.Test.L1.csproj", "{43852D53-F850-4C4F-B987-5B8F9AB401E8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Databases.AzureDocumentDatabase", "Convesys.Providers.Storage.AzureDocumentDatabase\Convesys.Providers.Databases.AzureDocumentDatabase.csproj", "{E7043292-DB70-47E7-8F5B-27D8F0F4B233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Databases.AzureDocumentDatabase", "Convesys.Providers.Storage.AzureDocumentDatabase\Twilight.Providers.Databases.AzureDocumentDatabase.csproj", "{E7043292-DB70-47E7-8F5B-27D8F0F4B233}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Databases.AzureDocumentDatabase.Tests.L1", "Convesys.Providers.Databases.AzureDocumentDatabase.Tests.L1\Convesys.Providers.Databases.AzureDocumentDatabase.Tests.L1.csproj", "{3F11A4F1-0EB5-4AC2-B700-70EB28FB6889}"
 EndProject
@@ -63,7 +63,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Polly.Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Logging.Console", "Convesys.Providers.Logging.Console\Twilight.Providers.Logging.Console.csproj", "{F3405575-0B2E-4FF6-A712-1604C0585C3B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Providers.Logging.Debug", "Convesys.Providers.Logging.Debug\Convesys.Providers.Logging.Debug.csproj", "{8090120A-D767-4F2A-9878-1AB3FF30AEF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.Logging.Debug", "Convesys.Providers.Logging.Debug\Twilight.Providers.Logging.Debug.csproj", "{8090120A-D767-4F2A-9878-1AB3FF30AEF4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Providers.RainbowTables", "Convesys.Providers.RainbowTables\Twilight.Providers.RainbowTables.csproj", "{A5C191A1-7C9C-42B3-8626-F88051E05892}"
 EndProject
